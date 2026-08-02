@@ -1,2 +1,2 @@
 #Employee Management System - End-to-End DevOps CI/CD Pipeline
-A complete DevOps CI/CD pipeline project using Python Flask, Git&GitHub, Jenkins, Docker, AWS EC2, Prometheus, Grafana, Shell Scripting, and Cron.
+A complete End-to-End DevOps CI/CD pipeline project using a Python Flask application integrated with Git & GitHub, Jenkins, Docker, Docker Hub, AWS EC2, Prometheus, Grafana, Node Exporter, Bash Scripting, and Cron for automated build, deployment, monitoring, and backup.
